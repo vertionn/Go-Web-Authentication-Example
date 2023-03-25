@@ -8,7 +8,7 @@ $ git clone https://github.com/vertionn/Go-Web-Authentication-Example.git
 $ cd Go-Web-Authentication-Example
 $ go run main.go
 ```
-Then, open your web browser and go to http://localhost:8080 to see the application in action.
+Then, open your web browser and go to http://localhost:8080/login to see the application in action.
 
 ## Usage
 Once the application is running, you can access the login form by going to http://localhost:8080/login. Enter "test" for both the username and password fields to log in. After logging in, you'll be redirected to the home page, which displays your username.
